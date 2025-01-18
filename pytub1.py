@@ -5,7 +5,7 @@ import yt_dlp
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # URL of the YouTube video
-url = 'https://www.youtube.com/watch?v=q5m09rqOoxE'
+url = ''
 
 try:
     # Define download options
